@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Aiyub150/biodata/static/css/main.2368c7a9.css",
-    "main.js": "/Aiyub150/biodata/static/js/main.ac91a571.js",
-    "static/js/787.de557db1.chunk.js": "/Aiyub150/biodata/static/js/787.de557db1.chunk.js",
-    "static/media/service-1.svg": "/Aiyub150/biodata/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
-    "static/media/avatar-2.svg": "/Aiyub150/biodata/static/media/avatar-2.dbaf15ff9b5d68a39d1b24521fb12640.svg",
-    "static/media/service-3.svg": "/Aiyub150/biodata/static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
-    "static/media/service-2.svg": "/Aiyub150/biodata/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
-    "static/media/logo.svg": "/Aiyub150/biodata/static/media/logo.8c2fb23675dc34b2041044d6dd41e4e3.svg",
-    "static/media/dots-bg.svg": "/Aiyub150/biodata/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
-    "index.html": "/Aiyub150/biodata/index.html",
-    "main.2368c7a9.css.map": "/Aiyub150/biodata/static/css/main.2368c7a9.css.map",
-    "main.ac91a571.js.map": "/Aiyub150/biodata/static/js/main.ac91a571.js.map",
-    "787.de557db1.chunk.js.map": "/Aiyub150/biodata/static/js/787.de557db1.chunk.js.map"
+    "main.css": "/biodata/static/css/main.1e8d8c17.css",
+    "main.js": "/biodata/static/js/main.d9806784.js",
+    "static/js/787.de557db1.chunk.js": "/biodata/static/js/787.de557db1.chunk.js",
+    "static/media/service-1.svg": "/biodata/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
+    "static/media/avatar-2.svg": "/biodata/static/media/avatar-2.dbaf15ff9b5d68a39d1b24521fb12640.svg",
+    "static/media/service-3.svg": "/biodata/static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
+    "static/media/service-2.svg": "/biodata/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/logo.svg": "/biodata/static/media/logo.8c2fb23675dc34b2041044d6dd41e4e3.svg",
+    "static/media/dots-bg.svg": "/biodata/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/biodata/index.html",
+    "main.1e8d8c17.css.map": "/biodata/static/css/main.1e8d8c17.css.map",
+    "main.d9806784.js.map": "/biodata/static/js/main.d9806784.js.map",
+    "787.de557db1.chunk.js.map": "/biodata/static/js/787.de557db1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2368c7a9.css",
-    "static/js/main.ac91a571.js"
+    "static/css/main.1e8d8c17.css",
+    "static/js/main.d9806784.js"
   ]
 }
